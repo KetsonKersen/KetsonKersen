@@ -8,7 +8,7 @@ Estou sempre empenhado em me manter atualizado com as tecnologias mais utilizada
 
 FindCar | FinanceApp
 --- | ---
-<a href="www.google.com" target="_blank"> ![findcar](https://github.com/user-attachments/assets/3fa574d4-c02c-4bcf-a7f0-fd4382b045d7) <a/> | <a href="www.google.com" target="_blank"> ![financeapp 11](https://github.com/user-attachments/assets/ea9c978f-12dc-4895-8b87-8818f2c801e1) <a/>
+<a href="https://github.com/KetsonKersen/find-car" target="_blank"> ![findcar](https://github.com/user-attachments/assets/3fa574d4-c02c-4bcf-a7f0-fd4382b045d7) <a/> | <a href="https://github.com/KetsonKersen/FianceApp" target="_blank"> ![financeapp 11](https://github.com/user-attachments/assets/ea9c978f-12dc-4895-8b87-8818f2c801e1) <a/>
 
 
 
