@@ -4,6 +4,14 @@
 Meu nome é Ketson Kersen, tenho 26 anos e sou desenvolvedor full stack. 
 Estou sempre empenhado em me manter atualizado com as tecnologias mais utilizadas no mercado e em aprimorar minhas soft skills. Acredito que a combinação de habilidades técnicas e interpessoais é fundamental para o sucesso na área de desenvolvimento. Estou animado para contribuir com projetos desafiadores e aprender continuamente com novas experiências.
 
+## Confira os meus projetos de destaque.
+
+FindCar | FinanceApp
+--- | ---
+<a href="www.google.com" target="_blank"> ![findcar](https://github.com/user-attachments/assets/3fa574d4-c02c-4bcf-a7f0-fd4382b045d7) <a/> | <a href="www.google.com" target="_blank"> ![financeapp 11](https://github.com/user-attachments/assets/ea9c978f-12dc-4895-8b87-8818f2c801e1) <a/>
+
+
+
 ## 👩‍💻Tecnologias do meu dia-a-dia.
 #### Front-End.
 
