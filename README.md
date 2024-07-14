@@ -1,4 +1,4 @@
-# Seja bem vindo (a) ao meu Github. 🎉
+# Seja bem vindo(a) ao meu Github. 🎉
 ![Group 125](https://github.com/user-attachments/assets/bb3858b0-06c2-488c-9bbd-a7416690ab65)
 
 Meu nome é Ketson Kersen, tenho 26 anos e sou desenvolvedor full stack. 
@@ -10,7 +10,7 @@ FindCar | FinanceApp
 --- | ---
 <a href="https://github.com/KetsonKersen/find-car" target="_blank"> ![findcar](https://github.com/user-attachments/assets/3fa574d4-c02c-4bcf-a7f0-fd4382b045d7) <a/> | <a href="https://github.com/KetsonKersen/FianceApp" target="_blank"> ![financeapp 11](https://github.com/user-attachments/assets/ea9c978f-12dc-4895-8b87-8818f2c801e1) <a/>
 
-## 🔹 Tecnologias do meu dia-a-dia.
+## 🔹 Tecnologias do meu dia a dia.
 Front-End | Back-End
 --- | ---
 ![Group 79](https://github.com/user-attachments/assets/bb8a34b7-bb74-4121-8568-b412b7c64ab8) ![Group 78](https://github.com/user-attachments/assets/6fa7a400-9283-4bd5-9781-406a7436c3a6) ![Group 77](https://github.com/user-attachments/assets/0ab467b7-9891-41d0-a1f6-d3925077bb5e) ![Group 75](https://github.com/user-attachments/assets/7ff8b63b-9a97-4dec-a0b9-dfe44474181e) ![Group 74](https://github.com/user-attachments/assets/dc8438c1-42f6-46a0-9de6-a152a5e6bb13) ![Group 73](https://github.com/user-attachments/assets/71e7fe7a-732a-487c-a43e-9d0b00919c56) ![Group 72](https://github.com/user-attachments/assets/03d7849a-9211-4744-8905-5f9c4f049573) | ![Group 80](https://github.com/user-attachments/assets/f1140e40-3b0f-43e5-857a-2f86188e9ad4) ![Group 81](https://github.com/user-attachments/assets/218ecee9-01c8-4cd6-855c-940770203e70) ![Group 82](https://github.com/user-attachments/assets/6a98d8cd-30d1-4568-b8fd-68adeac65a55) ![Group 83](https://github.com/user-attachments/assets/a4da60db-69eb-4d6c-afe0-7996e554432b) ![Group 84](https://github.com/user-attachments/assets/d72701ed-055f-4c4c-a850-017828a2c2d4) ![Group 85](https://github.com/user-attachments/assets/4952859b-7b37-4dd2-8cba-b3471d4fbfeb)
