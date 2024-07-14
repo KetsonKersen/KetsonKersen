@@ -1,10 +1,8 @@
-![Group 118 (2)](https://github.com/user-attachments/assets/79e3fc35-399e-4b21-9cb9-74d09c2856e1)
+# Seja bem vindo (a) ao meu Github. 🎉
+![Group 125](https://github.com/user-attachments/assets/bb3858b0-06c2-488c-9bbd-a7416690ab65)
 
-### Seja bem vindo (a) ao meu Github. 🎉
-
-
-
-
+Meu nome é Ketson Kersen, tenho 26 anos e sou desenvolvedor full stack. 
+Estou sempre empenhado em me manter atualizado com as tecnologias mais utilizadas no mercado e em aprimorar minhas soft skills. Acredito que a combinação de habilidades técnicas e interpessoais é fundamental para o sucesso na área de desenvolvimento. Estou animado para contribuir com projetos desafiadores e aprender continuamente com novas experiências.
 
 ## 👩‍💻Tecnologias do meu dia-a-dia.
 #### Front-End.
