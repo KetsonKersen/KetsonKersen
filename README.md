@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=KetsonKersen&color=blue&style=flat-square)
+![](https://komarev.com/ghpvc/?username=KetsonKersen&color=blue&style=flat-square&abbreviated=true)
 
 # Seja bem vindo(a) ao meu Github. 🎉
 ![Group 125](https://github.com/user-attachments/assets/bb3858b0-06c2-488c-9bbd-a7416690ab65)
